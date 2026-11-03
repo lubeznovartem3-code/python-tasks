@@ -1,0 +1,30 @@
+{
+  "hero": "антон",
+  "health": 100,
+  "stamina": 42,
+  "gold": 0,
+  "actions": 2,
+  "damage": 40.0,
+  "max_health": 100,
+  "max_stamina": 45,
+  "bonus": 0,
+  "inventory": {},
+  "log": [],
+  "enemies": [
+    "соляной голем",
+    "кристальный паук",
+    "солевая крыса",
+    "светящийся червь"
+  ],
+  "position": [
+    5,
+    2
+  ],
+  "visited": [
+    [
+      5,
+      2
+    ]
+  ],
+  "loot": []
+}
